@@ -10,7 +10,7 @@ import 'package:tetrisgame5/touch.dart';
 import 'package:tetrisgame5/vector.dart';
 
 class Tetris extends StatefulWidget {
-  const Tetris({Key? key}) : super(key: key);
+  const Tetris({Key? key}) : super(key: key);;
 
   @override
   State<Tetris> createState() => _TetrisState();
