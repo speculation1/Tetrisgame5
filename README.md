@@ -1,2 +1,2 @@
-# Tetrisgame5
+# Jewel Swipe
 New repo
